@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/primeros-pasos-react/static/css/main.24704efa.css",
+    "main.js": "/primeros-pasos-react/static/js/main.3e70eed8.js",
+    "static/js/453.1d049fcb.chunk.js": "/primeros-pasos-react/static/js/453.1d049fcb.chunk.js",
+    "index.html": "/primeros-pasos-react/index.html",
+    "main.24704efa.css.map": "/primeros-pasos-react/static/css/main.24704efa.css.map",
+    "main.3e70eed8.js.map": "/primeros-pasos-react/static/js/main.3e70eed8.js.map",
+    "453.1d049fcb.chunk.js.map": "/primeros-pasos-react/static/js/453.1d049fcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24704efa.css",
+    "static/js/main.3e70eed8.js"
+  ]
+}
